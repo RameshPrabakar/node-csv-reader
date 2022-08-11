@@ -1,5 +1,5 @@
 # Simple Node csv reader application
-This project is simple csv file reader and writer using typscript
+This project is to read and write a csv file using typescript
 
 ## Table of contents
 * [General info](#general-info)
@@ -8,9 +8,9 @@ This project is simple csv file reader and writer using typscript
 
 
 ## General info
-This project is contains sample csv file with details of orders made at an online shopping website, And resolved following problems.
+This program contains a sample csv file with details of orders placed on an online shopping website. Also the following issues have been resolved.
 * Average quantity of the product purchased per order
-* Most popular brand with the most total orders
+* Most popular brand with total orders
 	
 ## Technologies
 Project is created with:
@@ -27,5 +27,5 @@ $ npm start
 ```
 
 ## Note
-* There is a sample CSV file inside the `files` folder with name of input_file.csv. If you need to rename the file you should change inside the code.
+* The `files` folder contains a sample CSV file named input_file.csv. If you need to rename the file, change the code inside.
 * 0_input_file.csv and 1_input_file.csv will be the output file generated in the same folder path.
