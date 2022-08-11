@@ -16,6 +16,7 @@ This project is contains sample csv file with details of orders made at an onlin
 Project is created with:
 * Node version: 16.15.0
 * NPM version: 8.16.0
+* TypeScript version: 4.5.4
 	
 ## Setup
 To run this project, install it locally using npm:
