@@ -26,4 +26,5 @@ $ npm start
 ```
 
 ## Note
-There is a sample CSV file inside the `files` folder with name of input_file.csv. If you need to rename the file you should change inside the code.
+* There is a sample CSV file inside the `files` folder with name of input_file.csv. If you need to rename the file you should change inside the code.
+* 0_input_file.csv and 1_input_file.csv will be the output file generated in the same folder path.
